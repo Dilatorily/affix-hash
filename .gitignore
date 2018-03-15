@@ -1,4 +1,7 @@
 .*
 !.eslintrc
 !.gitignore
+!.travis.yml
+*.log
+coverage
 node_modules
