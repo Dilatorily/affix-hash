@@ -1,4 +1,3 @@
-// const cli = require('../cli');
 const execa = require('execa');
 const fs = require('fs');
 const rimraf = require('rimraf');
