@@ -1,4 +1,6 @@
 # affix-hash
+[![Build Status](https://travis-ci.org/Dilatorily/affix-hash.svg?branch=master)](https://travis-ci.org/Dilatorily/affix-hash)
+[![codecov](https://codecov.io/gh/Dilatorily/affix-hash/branch/master/graph/badge.svg)](https://codecov.io/gh/Dilatorily/affix-hash)
 Small CLI tool to affix a hash to filenames
 
 ## Install
